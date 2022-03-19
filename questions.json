@@ -1,0 +1,92 @@
+[
+    {
+        "question": "An HTML document is saved with the ____ extension.",
+        "answerOptions": [
+            {"answerText": ".htl", "isCorrect": false},
+            {"answerText": ".html", "isCorrect": true},
+            {"answerText": ".hml", "isCorrect": false},
+            {"answerText": ".htnl", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Choose the correct HTML tag for a large title.",
+        "answerOptions": [
+            {"answerText": "h1", "isCorrect": true},
+            {"answerText": "heading", "isCorrect": false},
+            {"answerText": "head", "isCorrect": false},
+            {"answerText": "h6", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following CSS selectors are used to specify a group of elements?",
+        "answerOptions": [
+            {"answerText": "tag", "isCorrect": false},
+            {"answerText": "id", "isCorrect": false},
+            {"answerText": "class", "isCorrect": true},
+            {"answerText": "both class and tag", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following CSS framework is used to create a responsive design?",
+        "answerOptions": [
+            {"answerText": "django", "isCorrect": false},
+            {"answerText": "rails", "isCorrect": false},
+            {"answerText": "larawell", "isCorrect": false},
+            {"answerText": "bootstrap", "isCorrect": true}
+        ]
+    },
+    {
+        "question": "Which of the following CSS style property is used to specify an italic text?",
+        "answerOptions": [
+            {"answerText": "style", "isCorrect": false},
+            {"answerText": "font", "isCorrect": false},
+            {"answerText": "font-style", "isCorrect": true},
+            {"answerText": "@font-face", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "Which of the following function defines a linear gradient as a CSS image?",
+        "answerOptions": [
+            {"answerText": "gradient()", "isCorrect": false},
+            {"answerText": "linear-gradient()", "isCorrect": true},
+            {"answerText": "grayscale()", "isCorrect": false},
+            {"answerText": "image()", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "HTML is considered as _________ language.",
+        "answerOptions": [
+            {"answerText": "higher level language", "isCorrect": false},
+            {"answerText": "markup language", "isCorrect": true},
+            {"answerText": "OOP language", "isCorrect": false},
+            {"answerText": "programming language", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "The latest HTML standard is",
+        "answerOptions": [
+            {"answerText": "XML", "isCorrect": false},
+            {"answerText": "SGML", "isCorrect": false},
+            {"answerText": "HTML 4.0", "isCorrect": false},
+            {"answerText": "HTML 5.0", "isCorrect": true}
+        ]
+    },
+    {
+        "question": "While working on a JavaScript project, in your JavaScript application, which function would you use to send messages to users requesting for text input?",
+        "answerOptions": [
+            {"answerText": "display()", "isCorrect": false},
+            {"answerText": "prompt()", "isCorrect": true},
+            {"answerText": "alert()", "isCorrect": false},
+            {"answerText": "getInput()", "isCorrect": false}
+        ]
+    },
+    {
+        "question": "The body tag usually used after",
+        "answerOptions": [
+            {"answerText": "Title tag", "isCorrect": false},
+            {"answerText": "HEAD tag", "isCorrect": true},
+            {"answerText": "EM tag", "isCorrect": false},
+            {"answerText": "FORM tag", "isCorrect": false}
+        ]
+    }
+]

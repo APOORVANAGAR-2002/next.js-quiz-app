@@ -1,3 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 html,
 body {
   padding: 0;
@@ -13,4 +17,27 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.optionsIndex{
+  background-color: aquamarine;
+  color: #477596;
+}
+
+.options:hover{
+  background-color: rgb(207 250 254);
+}
+
+.options:hover > .optionsIndex{
+  background-color: #094871;
+  color: #ffffff;
+}
+
+button:focus{
+  outline: none;
+}
+
+.previousButton{
+  background-color: #fbad1d;
+  color: #000000;
 }
